@@ -1,0 +1,2 @@
+def mainTotal():
+	print('wow')

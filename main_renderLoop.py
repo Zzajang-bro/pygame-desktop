@@ -1,0 +1,2 @@
+def mainRenderLoop():
+	while True:
